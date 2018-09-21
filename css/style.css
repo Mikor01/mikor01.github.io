@@ -30,6 +30,15 @@ a {
 	transition: all 0.4s ease;
 }
 
+downloads.a:visited {
+	color: #d3d3d3;
+	text-decoration: none;
+	outline: none;
+	z-index: -1;
+	transition: all 0.4s ease;
+}
+
+
 .downloads{
 	color: #d3d3d3;
 	z-index: -1;
